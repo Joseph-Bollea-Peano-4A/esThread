@@ -12,7 +12,7 @@ import java.util.logging.Logger;
  *
  * @author joseph.bollea
  */
-public class Hi extends Thread {
+public class ClasseHi extends Thread {
 
     public void run() {
         for (int i = 0; i < 10; i++) {
