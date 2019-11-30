@@ -9,7 +9,7 @@ package provathread;
  *
  * @author joseph.bollea
  */
-public class classeHello extends Thread {
+public class ClasseHello extends Thread {
 
     public void run() {
         for (int i = 0; i < 10; i++) {
